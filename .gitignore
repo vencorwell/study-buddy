@@ -47,7 +47,6 @@ CMakeUserPresets.json
 *.tmp
 
 # --- IDEs & Editors ---
-/.vscode/
 .idea/
 *.suo
 *.user
