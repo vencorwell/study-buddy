@@ -7,6 +7,11 @@
     Next Step
 }
 ---
+*October 9, 2026*
+- Continuing setup
+- Nothing broken
+- Compiling main.c in firmware requires the firmware folder to be open in a separate window from the study-buddy project. This is because we need to use to be in the pico project to be able to see the Pico extension enabled compile button and run button.
+---
 
 *October 3, 2026*
 - Initial setup
